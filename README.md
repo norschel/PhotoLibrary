@@ -1,6 +1,6 @@
 # PhotoLibrary
 
-A collection of PowerShell scripts for managing and organizing a personal photo/video library.
+A collection of PowerShell scripts for managing and organizing a personal photo/video library (IMMICH).
 
 ## Prerequisites
 
